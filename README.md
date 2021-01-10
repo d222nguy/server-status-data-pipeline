@@ -1,5 +1,5 @@
 
-[Written Duy Nguyen, Jan 2021]
+[Duy Nguyen, Jan 2021]
 
 # Installation
 
