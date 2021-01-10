@@ -27,10 +27,15 @@ docker run -d --hostname kafkanode --net mynet --ip 172.20.1.4 --name my_kafka -
 ### Create Single Node Hadoop and Spark cluster
 
 First, you need to download 4 files and extract them into `hadoop_spark_cluster_image` folder.
+
 https://drive.google.com/file/d/15YBNX2iW2vk1zTN8Z6eVsJ9U42paQ66i/view?usp=sharing
+
 https://drive.google.com/file/d/1wqvFoaw-AyxiHwEFt_P00HHx_U6_cErI/view?usp=sharing
+
 https://drive.google.com/file/d/1AZv6mszEpC8MR4rNiEJXyoyBTQkiq_Er/view?usp=sharing
+
 https://drive.google.com/file/d/17bOTwtWeloZx6KznwOvXzngOA4OoFJu9/view?usp=sharing
+
 Then
 `cd` into `hadoop_spark_cluster_image` folder. Then enter the following two commands. In short, the first command is to create the Docker images for Hadoop, Spark, Hive, and PostgreSQL. The second command is to create the clusters from these images.
 
