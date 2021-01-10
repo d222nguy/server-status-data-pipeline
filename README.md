@@ -1,6 +1,8 @@
 
 [Duy Nguyen, Jan 2021]
 
+![Pic 2](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic2.png?raw=true)
+
 # Installation
 
 ### Create a Kafka Cluster
@@ -94,9 +96,12 @@ Then run the server locally
 ```bash
 python manage.py runserver
 ```
-![alt text](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic1.png?raw=true)
 
-![alt text](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic2.png?raw=true)
+Some images are attached below:
+
+![Pic 1](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic1.png?raw=true)
+
+![Pic 2](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic2.png?raw=true)
 
 
 ### Reference: 
