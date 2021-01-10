@@ -94,6 +94,7 @@ Then run the server locally
 ```bash
 python manage.py runserver
 ```
+![alt text](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pic1.png?raw=true)
 
 ### Reference: 
 https://github.com/ches/docker-kafka
