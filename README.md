@@ -96,6 +96,9 @@ python manage.py runserver
 ```
 ![alt text](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic1.png?raw=true)
 
+![alt text](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic2.png?raw=true)
+
+
 ### Reference: 
 https://github.com/ches/docker-kafka
 https://www.youtube.com/channel/UCFQucNX7WsUwaWGNTrn6bIQ
