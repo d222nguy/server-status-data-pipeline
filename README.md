@@ -1,7 +1,7 @@
 
 [Duy Nguyen, Jan 2021]
 
-![Pic 2](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/pic2.png?raw=true)
+![Pic 2](https://github.com/d222nguy/server-status-data-pipeline/blob/master/pics/Spark%20Hadoop%20project%20walkthrough.png?raw=true)
 
 # Installation
 
